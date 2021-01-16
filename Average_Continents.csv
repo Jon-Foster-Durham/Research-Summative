@@ -1,0 +1,241 @@
+Continent,  Year  ,Emission
+ Asia      ,1971,68.346875
+ Asia      ,1972,72.396875
+ Asia      ,1973,78.50625
+ Asia      ,1974,80.09375
+ Asia      ,1975,85.340625
+ Asia      ,1976,89.525
+ Asia      ,1977,97.3
+ Asia      ,1978,103.634375
+ Asia      ,1979,108.234375
+ Asia      ,1980,108.484375
+ Asia      ,1981,109.828125
+ Asia      ,1982,113.471875
+ Asia      ,1983,119.10625
+ Asia      ,1984,127.309375
+ Asia      ,1985,126.8636364
+ Asia      ,1986,132.6575758
+ Asia      ,1987,140.6121212
+ Asia      ,1988,150.5545455
+ Asia      ,1989,157.5727273
+ Asia      ,1990,152.4769231
+ Asia      ,1991,158.525641
+ Asia      ,1992,164.8358974
+ Asia      ,1993,172.2461538
+ Asia      ,1994,179.8692308
+ Asia      ,1995,185.6575
+ Asia      ,1996,193.8425
+ Asia      ,1997,195.68
+ Asia      ,1998,195.765
+ Asia      ,1999,198.4575
+ Asia      ,2000,202.8125
+ Asia      ,2001,205.87
+ Asia      ,2002,215.8375
+ Asia      ,2003,233.3075
+ Asia      ,2004,257.5325
+ Asia      ,2005,274.92
+ Asia      ,2006,294.14
+ Asia      ,2007,312.9275
+ Asia      ,2008,328.7475
+ Asia      ,2009,339.2875
+ Asia      ,2010,358.6
+ Africa,1971,9.6
+ Africa,1972,10.20384615
+ Africa,1973,11.06923077
+ Africa,1974,11.56923077
+ Africa,1975,12.52307692
+ Africa,1976,13.59615385
+ Africa,1977,14.08461538
+ Africa,1978,13.75769231
+ Africa,1979,14.52307692
+ Africa,1980,15.6
+ Africa,1981,16.02222222
+ Africa,1982,16.38518519
+ Africa,1983,16.72962963
+ Africa,1984,17.37777778
+ Africa,1985,17.8
+ Africa,1986,17.9962963
+ Africa,1987,19.1
+ Africa,1988,19.53333333
+ Africa,1989,20.14074074
+ Africa,1990,20.4037037
+ Africa,1991,20.025
+ Africa,1992,19.62758621
+ Africa,1993,19.8862069
+ Africa,1994,19.8862069
+ Africa,1995,20.88965517
+ Africa,1996,21.59655172
+ Africa,1997,22.82413793
+ Africa,1998,23.3
+ Africa,1999,23.41034483
+ Africa,2000,23.86551724
+ Africa,2001,24.37931034
+ Africa,2002,25.43103448
+ Africa,2003,26.6862069
+ Africa,2004,28.02758621
+ Africa,2005,29.13448276
+ Africa,2006,29.70344828
+ Africa,2007,31.44482759
+ Africa,2008,33.16551724
+ Africa,2009,32.83793103
+ Africa,2010,32.8
+ Europe     ,1971,130.9
+ Europe     ,1972,134.4827586
+ Europe     ,1973,141.9137931
+ Europe     ,1974,138.9275862
+ Europe     ,1975,135.4482759
+ Europe     ,1976,143.9068966
+ Europe     ,1977,143.7275862
+ Europe     ,1978,148.4172414
+ Europe     ,1979,154.3448276
+ Europe     ,1980,149.9448276
+ Europe     ,1981,143.6724138
+ Europe     ,1982,139.8586207
+ Europe     ,1983,138.7310345
+ Europe     ,1984,139.5034483
+ Europe     ,1985,141.5137931
+ Europe     ,1986,138.7433333
+ Europe     ,1987,140.0133333
+ Europe     ,1988,139.1966667
+ Europe     ,1989,138.9133333
+ Europe     ,1990,170.2534884
+ Europe     ,1991,167.9186047
+ Europe     ,1992,157.3976744
+ Europe     ,1993,149.2046512
+ Europe     ,1994,141.0627907
+ Europe     ,1995,140.6651163
+ Europe     ,1996,141.7372093
+ Europe     ,1997,136.9534884
+ Europe     ,1998,136.5255814
+ Europe     ,1999,135.2883721
+ Europe     ,2000,133.4840909
+ Europe     ,2001,135.4340909
+ Europe     ,2002,134.6045455
+ Europe     ,2003,139.0863636
+ Europe     ,2004,138.8659091
+ Europe     ,2005,134.8977778
+ Europe     ,2006,136.9822222
+ Europe     ,2007,135.8333333
+ Europe     ,2008,134.4511111
+ Europe     ,2009,124.6866667
+ Europe     ,2010,128.5
+ North America      ,1971,370.6
+ North America      ,1972,391.7
+ North America      ,1973,407.8
+ North America      ,1974,398
+ North America      ,1975,383.6
+ North America      ,1976,406.5
+ North America      ,1977,423.3
+ North America      ,1978,426.7
+ North America      ,1979,432.3
+ North America      ,1980,419
+ North America      ,1981,413.9
+ North America      ,1982,395.7
+ North America      ,1983,392.5
+ North America      ,1984,409
+ North America      ,1985,411.4
+ North America      ,1986,408.9
+ North America      ,1987,422.2
+ North America      ,1988,441
+ North America      ,1989,448.4
+ North America      ,1990,441
+ North America      ,1991,439.3
+ North America      ,1992,444.7
+ North America      ,1993,453.8
+ North America      ,1994,463.3
+ North America      ,1995,467.8
+ North America      ,1996,483.4
+ North America      ,1997,499.9
+ North America      ,1998,502.2
+ North America      ,1999,503.6
+ North America      ,2000,522
+ North America      ,2001,520.5
+ North America      ,2002,515.8
+ North America      ,2003,523.4
+ North America      ,2004,530.5
+ North America      ,2005,534.6
+ North America      ,2006,529.4
+ North America      ,2007,537.7
+ North America      ,2008,523
+ North America      ,2009,490
+ North America      ,2010,507.4
+Oceania,1971,78.9
+Oceania,1972,82.3
+Oceania,1973,87.8
+Oceania,1974,95.7
+Oceania,1975,98.55
+Oceania,1976,100.6
+Oceania,1977,108.05
+Oceania,1978,105.25
+Oceania,1979,107.3
+Oceania,1980,112.2
+Oceania,1981,112.3
+Oceania,1982,116.25
+Oceania,1983,110.35
+Oceania,1984,114.05
+Oceania,1985,120.3
+Oceania,1986,120.35
+Oceania,1987,125.95
+Oceania,1988,131.65
+Oceania,1989,138.3
+Oceania,1990,141.7
+Oceania,1991,142.65
+Oceania,1992,145.4
+Oceania,1993,147.2
+Oceania,1994,150.35
+Oceania,1995,155.85
+Oceania,1996,161.7
+Oceania,1997,166.4
+Oceania,1998,175.65
+Oceania,1999,181.15
+Oceania,2000,184.85
+Oceania,2001,192.05
+Oceania,2002,195.8
+Oceania,2003,197.4
+Oceania,2004,202.4
+Oceania,2005,201.55
+Oceania,2006,203.8
+Oceania,2007,208.2
+Oceania,2008,209.9
+Oceania,2009,207.55
+Oceania,2010,207.2
+ South America      ,1971,25.4
+ South America      ,1972,26.48
+ South America      ,1973,28.79
+ South America      ,1974,30.43
+ South America      ,1975,30.79
+ South America      ,1976,33.09
+ South America      ,1977,34.36
+ South America      ,1978,36.27
+ South America      ,1979,38.35
+ South America      ,1980,38.12
+ South America      ,1981,36.84
+ South America      ,1982,36.67
+ South America      ,1983,35.89
+ South America      ,1984,36.12
+ South America      ,1985,36.27
+ South America      ,1986,39.25
+ South America      ,1987,40.71
+ South America      ,1988,42.54
+ South America      ,1989,43.18
+ South America      ,1990,42.47
+ South America      ,1991,44.02
+ South America      ,1992,45.15
+ South America      ,1993,46.98
+ South America      ,1994,49.34
+ South America      ,1995,52.15
+ South America      ,1996,56.59
+ South America      ,1997,59.87
+ South America      ,1998,61.55
+ South America      ,1999,62.4
+ South America      ,2000,63.52
+ South America      ,2001,62.84
+ South America      ,2002,62.49
+ South America      ,2003,63.22
+ South America      ,2004,67.75
+ South America      ,2005,69.44
+ South America      ,2006,71.78
+ South America      ,2007,75.18
+ South America      ,2008,78.63
+ South America      ,2009,76.28
+ South America      ,2010,82.8
